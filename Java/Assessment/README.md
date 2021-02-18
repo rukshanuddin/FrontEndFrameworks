@@ -16,14 +16,18 @@ Throughout this course we assume that students understand a few basic Java conce
 1. Which creates a basic array in Java?
 
 [ ] `int [] myList = {"1", "2", "3"};`
+
 [ ] `int [] myList = (5, 8, 2);`
+
 [ ] `int myList [] [] = {4,9,7,0};`
+
 [ ] `int myList [] = {4, 3, 7};`
 
 2. Which is a valid declaration of a method in an interface?
 
-[ ] `public double methoda();`
-[ ] `double public methoda();`
+[ ] `public double method();`
+
+[ ] `double public method();`
 
 3. Please read the following code. What is the output?
 
