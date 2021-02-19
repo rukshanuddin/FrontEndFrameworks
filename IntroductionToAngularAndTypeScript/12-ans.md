@@ -1,6 +1,6 @@
 ## Review Quiz
 
-### Below is the answers to the [quiz](./11.md#Review).
+### Below is the answers to the [quiz](./12.md#Review).
 
 1.  The following is valid for defining a `class` that adheres to an `interface`.
 
@@ -56,10 +56,10 @@ class Dog implements Animal {}
 
     ~~D. `class Accountant implements Employee: Salaried`~~
 
-[Back to Lesson 13](./13.md)
+[Back to Lesson 12](./12.md)
 
-[Next Lesson](./14.md)
+[Next Lesson](./13.md)
 
 [Table of Contents](./README.md)
 
-[Previous Lesson](./12.md)
+[Previous Lesson](./11.md)

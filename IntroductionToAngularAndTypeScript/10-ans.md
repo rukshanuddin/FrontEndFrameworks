@@ -1,92 +1,49 @@
-# Quiz Answers
+## Review Quiz
 
-1.  JavaScript is a strongly-typed language.
+### Below is the answers to the [quiz](./11.md#Review).
 
-    ~~A. True~~
-
-    **B. False**
-
-2.  Using TypeScript, you will get an error if you do not define the type of a variable.
-
-    ~~A. True~~
-
-    **B. False**
-
-3.  In the `tsconfig.json` file, if the `strictNullChecks` flag is missing or set to _off_, **null** can be assigned to variable data types like _strings_ and _numbers_.
+1.  You can use an `interface` to type-define a structure (define the types for all of its properties).
 
     **A. True**
 
     ~~B. False~~
 
-4.  Which of the following is not a valid type is TypeScript?
+2.  Using TypeScript, you will get an error if you do not define the type of a variable.
 
-    ~~A. True~~
+    **A. True**
 
     ~~B. False~~
 
-    **C. Dictionary**
+3.  Which statement below is valid for defining a read-only property in an interface?
 
-    ~~D. String~~
+    **A. `readonly status: number`**
 
-    ~~E. All are valid types~~
+    ~~B. `read-only status: number`~~
 
-5.  Which is the correct way to assign a type to a variable?
+    ~~C. `status: number readonly`~~
 
-    ~~A. ~~`string name = "bob";`~~
+    ~~D. `status: number read-only`~~
 
-    **B. `var name: string = "bob";`**
+4.  An `interface` can contain _optional_ properties
 
-    ~~C. ~~`var name = string = "bob";`~~
+    **A. True**
 
-    ~~D. ~~`string: name = "bob";`~~
+    ~~B. False~~
 
-6.  If you declare the type of a variable as a _string_ but assign it a numeric value, it will automatically re-declare the type as a _number_.
+5.  Which statement below is valid for defining an optional property in an `interface`?
 
-    ~~A. True~~
+    ~~A. `middleName: string?;`~~
 
-    **B. False**
+    **B. `middleName?: string;`**
 
-7.  Using TypeScript, types can be declared for both function parameters and the function's return value.
-    ~~A. True~~
+    ~~C. `optional middleName: string;`~~
 
-    **B. False**
+    ~~D. `middleName: optional string;`~~
 
-8.  Typecasting is the process of converting from one type to another.
-    ~~A. True~~
+[Back to Lesson 11](./11.md)
 
-    **B. False**
-
-9.  `myNumber.toString()` is a valid example of typecasting from a number to a string.
-    ~~A. True~~
-
-    **B. False**
-
-10. Is the following function definition valid?
-
-    ~~A. Yes~~
-
-    **B. No**
-
-```ts
-function addTwo(val1: number, val2: number): number {
-  return (val1 + val2).toString();
-}
-```
-
-11. Which of the following is an invalid type assertion?
-
-    ~~A. `const obj = {} as MyObject;`~~
-
-    ~~B. `var myNum: number = myString as number;`~~
-
-    ~~C. `var myString = myNum;`~~
-
-    **D. All are valid**
-
-[Back to Lesson 10](./10.md)
-
-[Next Lesson](./11.md)
+[Next Lesson](./12.md)
 
 [Table of Contents](./README.md)
 
-[Previous Lesson](./12.md)
+[Previous Lesson](./10.md)
