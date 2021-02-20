@@ -1,0 +1,14 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+html {
+  background-color: floralwhite;
+}
+
+img {
+  display: flex;
+  justify-content: flex-end;
+  height: auto;
+  width: 150px;
+}
