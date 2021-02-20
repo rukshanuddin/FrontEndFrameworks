@@ -1,6 +1,6 @@
 # UI
 
-[1. Introduction to Angular and TypeScript](./IntroductiontoAngularAndTypeScript/README.md)
+[1. Introduction to Angular and TypeScript](./IntroductionToAngularAndTypeScript/README.md)
 
 [2. TypeScript Continued](./TypeScriptContinued/README.md)
 
