@@ -1,12 +1,11 @@
-# Computer Fundamentals
+# The Impact of Digital Technology
 
-## Module Overview
-
-### Course Objectives
-
-Upon successful conclusion of this module, you will be able to explain:
-
-- [The impact of digital technology.](./L01/README.md)
-- [Computers and the Internet.](./L02/README.md)
-- [Security.](./L03/README.md)
-- [Ethics.](./L04/README.md)
+[1](./1.md)
+[2](./2.md)
+[3](./3.md)
+[4](./4.md)
+[5](./5.md)
+[6](./6.md)
+[7](./7.md)
+[8](./8.md)
+[9](./9.md)
