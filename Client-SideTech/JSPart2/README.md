@@ -1,4 +1,4 @@
-# CSS Part 2
+# JavaScript Part 2
 
 [1. Overview](./1.md)
 [2. Updating Node & NPM](./2.md)
@@ -11,8 +11,3 @@
 [9. Type Assertion](./9.md)
 [10. Interfaces](./10.md)
 [11. Using Interfaces with Classes](./11.md)
-[12. Classes Implementing Multiple Interfaces](./12.md)
-[13. Key Terms](./13.md)
-[14. Hand-On Activity](./14.md)
-[15. Key Terms](./15.md)
-[16. Key Terms](./16.md)

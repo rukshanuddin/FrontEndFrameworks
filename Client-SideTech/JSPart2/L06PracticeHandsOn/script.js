@@ -1,10 +1,3 @@
-# Solution
-
-Below is the solution for the Lesson 6 Practice Hands-On.
-
-**script.js** file:
-
-```js
 var awesomeBirds = ["Bluebird", "Roadrunner", "Desert Dove", "Pigeon"];
 
 for (var i = 0; i < awesomeBirds.length; i++) {
@@ -14,10 +7,3 @@ for (var i = 0; i < awesomeBirds.length; i++) {
     alert("Not as beautiful as Bluebirds");
   }
 }
-```
-
-[Next](./12.md)
-
-[Table of Contents](./README.md)
-
-[Previous](./11.md)
