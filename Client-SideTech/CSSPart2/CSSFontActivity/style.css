@@ -1,7 +1,14 @@
-p {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-}
 div {
-  font-family: "Shadows Into Light", cursive;
+  padding: 15 20 25 30;
+  background-color: #b633ff;
+}
+form {
+  border: 5px solid black;
+  float: left;
+  padding: 75px;
+  margin-right: 600px;
+  margin-bottom: 150px;
+}
+a:hover {
+  color: #00e1ff;
 }
