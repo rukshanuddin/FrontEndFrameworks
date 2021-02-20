@@ -1,4 +1,4 @@
-# Table of Contents
+# Introduction to Angular and TypeScript
 
 [1. Overview](./1.md)
 [2. Updating Node & NPM](./2.md)
