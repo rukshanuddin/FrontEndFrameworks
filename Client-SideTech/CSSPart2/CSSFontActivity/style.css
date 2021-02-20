@@ -4,9 +4,9 @@ div {
 }
 form {
   border: 5px solid black;
-  float: left;
+  float: right;
   padding: 75px;
-  margin-right: 600px;
+  margin-left: 600px;
   margin-bottom: 150px;
 }
 a:hover {
