@@ -6,9 +6,10 @@ import { Component } from "@angular/core";
   styleUrls: ["./app.component.css"],
 })
 export class AppComponent {
-  title = "Mr. Bigglesworth";
-  city = "New York";
-  tagline = "Meow all day every day";
+  title = "Rukshan Uddin";
+  city = "Palm Beach Gardens";
+  tagline =
+    "Full Stack Web Developer | React.js | Node.js | Javascript | Ruby on Rails | Postgres";
   aboutMe =
-    "I am a city cat. I live with my humans in a beautiful apartment. I spend my time looking out the window, eating, and sleeping on my luxurious bed. My lovely, long white fur is brushed daily, so I am always looking my best.";
+    "Full stack web developer with a background in business and technology and passion for coding. With experience in Ruby on Rails, JavaScript, and React, I bring strong skills in team-building and problem solving that help companies increase efficiency and productivity.";
 }
